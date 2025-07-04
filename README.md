@@ -16,7 +16,7 @@ This project demonstrates how to containerize a Java web application and deploy 
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ## ✅ Kubernetes Service Created
 ![K8s Service](Screenshots/k8s-service-created.png)
@@ -32,5 +32,16 @@ This project demonstrates how to containerize a Java web application and deploy 
 
 ## ✅ Memcached Status Page
 ![Memcached](Screenshots/memcached-status.png)
+
+---
+
+## Learning Outcome
+
+- Learned Kubernetes concepts: Pods, Deployments, Services
+- Created deployment.yaml and service.yaml for app deployment
+- Exposed Java app via NodePort on local Kubernetes cluster
+- Deployed Dockerized Java WAR app to Kubernetes successfully
+- Managed app lifecycle using `kubectl` commands
+
 
 
