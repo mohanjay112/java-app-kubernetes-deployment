@@ -14,3 +14,23 @@ This project demonstrates how to containerize a Java web application and deploy 
 - GitHub
 
 
+---
+
+## 📸 Screenshots
+
+## ✅ Kubernetes Service Created
+![K8s Service](Screenshots/k8s-service-created.png)
+
+## ✅ Java App Login Page
+![Login](Screenshots/app-login-page.png)
+
+## ✅ Java App After Login
+![Logged In](Screenshots/app-loggedin-page.png)
+
+## ✅ RabbitMQ Dashboard
+![RabbitMQ](Screenshots/rabbitmq-dashboard.png)
+
+## ✅ Memcached Status Page
+![Memcached](Screenshots/memcached-status.png)
+
+
